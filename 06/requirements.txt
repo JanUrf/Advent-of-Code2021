@@ -1,0 +1,2 @@
+#### Rquired packages for the solutions for day 6
+numpy
